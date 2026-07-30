@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-y7f957.growagarden.autos/sitemap.xml
